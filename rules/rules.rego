@@ -2,4 +2,4 @@ package rules
 
 import data.dataset
 
-default main := false
+default main = false
